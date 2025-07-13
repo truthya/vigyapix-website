@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    border:0 ;
+    box-sizing: border-box;
+}
+    #headerbg {
+    background-image: url(res/img/headerbg.png);
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;;
+}
+
